@@ -16,8 +16,10 @@ Exemplos: HCTR | XPCI
 As cores das planilhas não interfere nas fórmuas, mas ajuda a encontrá-las com facilidade durante o uso
 
 Sugestão de uso das cores:
-VERDE: Ativos em carteira
-AZUL: Ativos sem cotas em carteira (somente histórico)
+> VERDE: Ativos em carteira
+>
+>AZUL: Ativos sem cotas em carteira (somente histórico)
+>
 
 #### AUXILIAR
 Essa planilha é utilizada para manter algumas informações importantes e facilitar o uso da planilha
@@ -28,8 +30,8 @@ IMPORTANTE: Sempre preencha as linhas mantendo a ordem cronológica para o bom f
 
 ### Colunas
 
-- De A a G: São colunas de preenchimento manual
-- A partir da H: são colunas de fórmulas
+- **De A a G**: São colunas de preenchimento manual
+- **A partir da H**: são colunas de fórmulas
 
 #### Colunas de preenchimento manual
 Essas colunas possuem os dados mais importantes, a CoFIIPA depende do preenchimento correto desses dados para fazer os cálculos de forma correta.
